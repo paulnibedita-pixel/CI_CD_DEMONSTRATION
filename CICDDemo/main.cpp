@@ -39,7 +39,7 @@ void testCalculator()
     std::cout << "Running calculator unit tests...\n";
 
     // Addition
-    assert(add(2, 3) == 5);
+    assert(add(2, 3) == 15);
     assert(add(-2, 2) == 0);
 
     // Subtraction
