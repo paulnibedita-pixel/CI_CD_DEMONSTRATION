@@ -1,0 +1,19 @@
+Start testing: Oct 12 12:18 IST
+----------------------------------------------------------
+1/1 Testing: ApplicationTest
+1/1 Test: ApplicationTest
+Command: "/home/kolkata/TestProjects/CICDDemo/build/cicd_demo"
+Directory: /home/kolkata/TestProjects/CICDDemo/build
+"ApplicationTest" start time: Oct 12 12:18 IST
+Output:
+----------------------------------------------------------
+Hello CI/CD DEMO And Handson!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ApplicationTest" end time: Oct 12 12:18 IST
+"ApplicationTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 12 12:18 IST

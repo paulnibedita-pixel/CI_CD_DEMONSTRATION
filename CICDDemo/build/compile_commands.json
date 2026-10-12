@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kolkata/TestProjects/CICDDemo/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/cicd_demo.dir/main.cpp.o -c /home/kolkata/TestProjects/CICDDemo/main.cpp",
+  "file": "/home/kolkata/TestProjects/CICDDemo/main.cpp",
+  "output": "CMakeFiles/cicd_demo.dir/main.cpp.o"
+}
+]

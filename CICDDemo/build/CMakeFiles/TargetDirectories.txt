@@ -1,0 +1,4 @@
+/home/kolkata/TestProjects/CICDDemo/build/CMakeFiles/cicd_demo.dir
+/home/kolkata/TestProjects/CICDDemo/build/CMakeFiles/test.dir
+/home/kolkata/TestProjects/CICDDemo/build/CMakeFiles/edit_cache.dir
+/home/kolkata/TestProjects/CICDDemo/build/CMakeFiles/rebuild_cache.dir
