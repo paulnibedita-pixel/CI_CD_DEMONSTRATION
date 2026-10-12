@@ -15,7 +15,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Configure CMake
-        run: cmake -S . -B build
+        run: 
+        cd 
+        cmake -S CICDDemo -B build
 
       - name: Build application
         run: cmake --build build --config Release
