@@ -7,7 +7,12 @@ on:
     branches: [main]
 
 jobs:
+
+ cpplint:
+    uses: ./.github/workflows/cpplint.yml
+
   build-and-test:
+    needs: cpplint
     runs-on: ubuntu-latest
 
     steps:
