@@ -1,14 +1,16 @@
+
 name: C++ CI Pipeline
 
 on:
   push:
     branches: [main]
+
   pull_request:
     branches: [main]
 
 jobs:
 
- cpplint:
+  cpplint:
     uses: ./.github/workflows/cpplint.yml
 
   build-and-test:
@@ -27,3 +29,4 @@ jobs:
 
       - name: Run tests
         run: ctest --test-dir build -C Release --output-on-failure
+
