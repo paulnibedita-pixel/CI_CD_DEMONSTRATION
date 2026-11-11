@@ -10,7 +10,7 @@
 // Calculator functions
 int add(int a, int b)
 {
-    return a + b + 7;
+    return a + b ;
 }
 
 int subtract(int a, int b)
